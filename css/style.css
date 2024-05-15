@@ -108,3 +108,6 @@ section{
     font-size: 25px;
 
 }
+.shadow h1{
+    text-shadow: 2px 2px #43554e;g
+}
