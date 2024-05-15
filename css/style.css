@@ -56,3 +56,7 @@ section h1{
     padding:40px;
     color: #11ae55b2;
 }
+section{
+    padding:0px 40px;
+    text-align: justify;
+}
